@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritikasantara
 - 👀 I’m interested in coding,cooking and reading
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate with any platform offering python projects
+- 💞️ I’m looking to collaborate on any python and datascience projects
 - 📫 How to reach me ...
 ritz.new.31@gmail.com
 <!---
